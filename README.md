@@ -56,6 +56,8 @@ Using pthreads for multithreading and semaphores for synchronizing data between 
 
 Implementing a priority-based event queue using a linked list.
 
+# School Project
+This project was part of my coursework for the **COMP2401 Fall 2024** Systems Programming class at Carleton Universiry.
 
 # Contact
 For any questions, feel free to reach out via GitHub issues or email.
