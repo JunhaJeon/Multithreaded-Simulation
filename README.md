@@ -34,8 +34,8 @@ system.c: Implements the system structure, running the system threads, and modif
 ## Building and Running
 1. Open a terminal and navigate to the folder containing the program's files.
 2. Type the command to compile the program: 'make'
-3. You should see a new executable file named 'p2' in the directory.
-4. From that directory, you can run the program with:'./p2'
+3. You should see a new executable file named 'main' in the directory.
+4. From that directory, you can run the program with:'./main'
 
 # Requirements
 GCC compiler
